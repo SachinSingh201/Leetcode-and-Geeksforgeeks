@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
@@ -20,9 +21,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
