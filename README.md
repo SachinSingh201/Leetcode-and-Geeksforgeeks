@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
