@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0494-target-sum) |
 | [0832-flipping-an-image](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0832-flipping-an-image) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0093-restore-ip-addresses) |
 | [0257-binary-tree-paths](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0257-binary-tree-paths) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
 | ------- |
