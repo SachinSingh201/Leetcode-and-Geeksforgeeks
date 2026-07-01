@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0208-implement-trie-prefix-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0093-restore-ip-addresses) |
+| [0208-implement-trie-prefix-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0257-binary-tree-paths) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -170,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1833-maximum-ice-cream-bars) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
