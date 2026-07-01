@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0494-target-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0494-target-sum) |
 | [0832-flipping-an-image](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0832-flipping-an-image) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -68,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
