@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0494-target-sum) |
+| [1301-number-of-paths-with-max-score](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1301-number-of-paths-with-max-score) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0494-target-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0494-target-sum) |
 | [0832-flipping-an-image](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0832-flipping-an-image) |
+| [1301-number-of-paths-with-max-score](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1301-number-of-paths-with-max-score) |
 | [1833-maximum-ice-cream-bars](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0832-flipping-an-image) |
+| [1301-number-of-paths-with-max-score](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
 |  |
