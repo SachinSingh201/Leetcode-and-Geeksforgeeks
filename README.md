@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0494-target-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0494-target-sum) |
 | [0832-flipping-an-image](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0832-flipping-an-image) |
+| [1288-remove-covered-intervals](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1301-number-of-paths-with-max-score) |
 | [1833-maximum-ice-cream-bars](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
