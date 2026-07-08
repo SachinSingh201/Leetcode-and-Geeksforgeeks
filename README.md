@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0494-target-sum) |
+| [1025-divisor-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1301-number-of-paths-with-max-score) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3620-network-recovery-pathways) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0089-gray-code) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1025-divisor-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1025-divisor-game) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
@@ -221,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3620-network-recovery-pathways) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
