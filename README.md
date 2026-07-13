@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0832-flipping-an-image](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0832-flipping-an-image) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0089-gray-code) |
+| [0231-power-of-two](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1025-divisor-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1025-divisor-game) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1025-divisor-game) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
