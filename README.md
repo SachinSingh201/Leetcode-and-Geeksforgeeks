@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0494-target-sum) |
 | [1025-divisor-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1025-divisor-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1025-divisor-game) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -248,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
