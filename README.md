@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0189-rotate-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0219-contains-duplicate-ii) |
 | [0494-target-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0560-subarray-sum-equals-k) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0089-gray-code) |
+| [0189-rotate-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1025-divisor-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1025-divisor-game) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0189-rotate-array) |
 | [0832-flipping-an-image](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0832-flipping-an-image) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
