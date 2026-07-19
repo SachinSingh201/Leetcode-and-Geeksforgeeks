@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0219-contains-duplicate-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0013-roman-to-integer) |
 | [0089-gray-code](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0231-power-of-two) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0013-roman-to-integer) |
 | [0093-restore-ip-addresses](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0093-restore-ip-addresses) |
 | [0208-implement-trie-prefix-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0257-binary-tree-paths) |
