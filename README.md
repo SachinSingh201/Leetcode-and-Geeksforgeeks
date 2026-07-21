@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0560-subarray-sum-equals-k) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0189-rotate-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0239-sliding-window-maximum) |
 | [0494-target-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0494-target-sum) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0424-longest-repeating-character-replacement) |
