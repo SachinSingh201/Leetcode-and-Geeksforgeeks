@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0148-sort-list](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0189-rotate-array) |
 | [0832-flipping-an-image](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0832-flipping-an-image) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0148-sort-list) |
 | [1288-remove-covered-intervals](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1833-maximum-ice-cream-bars) |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
