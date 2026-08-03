@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0233-number-of-digit-one) |
 | [0494-target-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1025-divisor-game) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0233-number-of-digit-one) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0877-stone-game) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0233-number-of-digit-one) |
 ## Number Theory
 |  |
 | ------- |
