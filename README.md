@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1406-stone-game-iii) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3620-network-recovery-pathways) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0662-maximum-width-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0662-maximum-width-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2685-count-the-number-of-complete-components) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3620-network-recovery-pathways) |
 ## Binary Tree
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0832-flipping-an-image](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0832-flipping-an-image) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -280,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0662-maximum-width-of-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -306,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0341-flatten-nested-list-iterator) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Trie
 |  |
 | ------- |
@@ -389,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1406-stone-game-iii) |
+## Binary Lifting
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1483-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
