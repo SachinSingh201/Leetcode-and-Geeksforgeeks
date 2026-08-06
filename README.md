@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0133-clone-graph) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0257-binary-tree-paths) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0133-clone-graph](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0219-contains-duplicate-ii) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0133-clone-graph) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0662-maximum-width-of-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0133-clone-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3310-remove-methods-from-project) |
