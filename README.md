@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0341-flatten-nested-list-iterator) |
 | [0437-path-sum-iii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0733-flood-fill) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0133-clone-graph) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0994-rotting-oranges) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0684-redundant-connection) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0133-clone-graph) |
+| [0684-redundant-connection](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0684-redundant-connection) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3310-remove-methods-from-project) |
