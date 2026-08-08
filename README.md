@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0048-rotate-image) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0189-rotate-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0189-rotate-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0189-rotate-array) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0048-rotate-image) |
 | [0733-flood-fill](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0994-rotting-oranges) |
