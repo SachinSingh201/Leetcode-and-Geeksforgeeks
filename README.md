@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1140-stone-game-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0994-rotting-oranges) |
+| [1140-stone-game-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1301-number-of-paths-with-max-score) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -389,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
@@ -427,10 +432,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1406-stone-game-iii) |
 ## Binary Lifting
 |  |
