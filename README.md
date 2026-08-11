@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0257-binary-tree-paths) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0189-rotate-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0239-sliding-window-maximum) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0994-rotting-oranges) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0662-maximum-width-of-binary-tree) |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0684-redundant-connection) |
 | [1584-min-cost-to-connect-all-points](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1584-min-cost-to-connect-all-points) |
