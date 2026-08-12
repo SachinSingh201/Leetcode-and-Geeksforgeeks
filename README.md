@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Breadth-First Search
 |  |
 | ------- |
