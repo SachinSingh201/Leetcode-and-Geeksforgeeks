@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0048-rotate-image) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0093-restore-ip-addresses) |
