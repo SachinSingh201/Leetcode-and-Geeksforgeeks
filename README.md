@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2029-stone-game-ix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2029-stone-game-ix) |
 ## Recursion
 |  |
 | ------- |
@@ -468,11 +473,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2029-stone-game-ix) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -501,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0207-course-schedule) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
