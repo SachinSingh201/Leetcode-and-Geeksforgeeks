@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1260-shift-2d-grid) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1288-remove-covered-intervals](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1331-rank-transform-of-an-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0560-subarray-sum-equals-k) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1386-cinema-seat-allocation) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1386-cinema-seat-allocation](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
