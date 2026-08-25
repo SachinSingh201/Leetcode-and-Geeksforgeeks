@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0233-number-of-digit-one) |
 | [0494-target-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0509-fibonacci-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0189-rotate-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0219-contains-duplicate-ii) |
