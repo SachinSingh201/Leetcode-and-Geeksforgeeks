@@ -1,42 +1,59 @@
-class Solution(object):
+# class Solution(object):
 
-    def rec(self, i, amount, coins, dp):
+#     def rec(self, i, amount, coins, dp):
 
-        if amount == 0:
-            return 0
+#         if amount == 0:
+#             return 0
 
-        if amount < 0 or i >= len(coins):
-            return float('inf')
+#         if amount < 0 or i >= len(coins):
+#             return float('inf')
 
-        if dp[i][amount] != -1:
-            return dp[i][amount]
+#         if dp[i][amount] != -1:
+#             return dp[i][amount]
 
     
-        take = 1 + self.rec(
-            i,
-            amount - coins[i],
-            coins,
-            dp
-        )
+#         take = 1 + self.rec(
+#             i,
+#             amount - coins[i],
+#             coins,
+#             dp
+#         )
 
 
-        not_take = self.rec(
-            i + 1,
-            amount,
-            coins,
-            dp
-        )
+#         not_take = self.rec(
+#             i + 1,
+#             amount,
+#             coins,
+#             dp
+#         )
 
-        dp[i][amount] = min(take, not_take)
+#         dp[i][amount] = min(take, not_take)
 
-        return dp[i][amount]
+#         return dp[i][amount]
 
+#     def coinChange(self, coins, amount):
+#         dp = [[-1] * (amount + 1) for _ in range(len(coins))]
+
+#         ans = self.rec(0, amount, coins, dp)
+
+#         if ans == float('inf'):
+#             return -1
+
+#         return ans
+
+
+class Solution(object):
     def coinChange(self, coins, amount):
-        dp = [[-1] * (amount + 1) for _ in range(len(coins))]
+        dp = [amount + 1] * (amount + 1)
 
-        ans = self.rec(0, amount, coins, dp)
+        dp[0] = 0
 
-        if ans == float('inf'):
+        for a in range(1, amount + 1):
+            for coin in coins:
+                if coin <= a:
+                    dp[a] = min(dp[a], 1 + dp[a - coin])
+
+        if dp[amount] == amount + 1:
             return -1
 
-        return ans
+        return dp[amount]
