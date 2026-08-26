@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0233-number-of-digit-one) |
+| [0300-longest-increasing-subsequence](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0494-target-sum) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0300-longest-increasing-subsequence](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0300-longest-increasing-subsequence) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0494-target-sum) |
@@ -580,4 +583,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
