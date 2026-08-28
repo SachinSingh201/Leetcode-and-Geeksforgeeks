@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0189-rotate-array) |
 | [0832-flipping-an-image](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0832-flipping-an-image) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
