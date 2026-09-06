@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0233-number-of-digit-one) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0013-roman-to-integer) |
 | [0093-restore-ip-addresses](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0257-binary-tree-paths) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0405-convert-a-number-to-hexadecimal) |
