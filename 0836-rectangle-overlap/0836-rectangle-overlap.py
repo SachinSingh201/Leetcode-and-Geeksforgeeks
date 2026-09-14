@@ -8,11 +8,14 @@ class Solution(object):
         x1, y1, x2, y2 = rec1
         x11, y11, x22, y22 = rec2
 
-       
-        if x2 <= x11 or x22 <= x1:
-            return False
+        
+        left = max(x1, x11)
+        right = min(x2, x22)
 
-        if y2 <= y11 or y22 <= y1:
-            return False
+        bottom = max(y1, y11)
+        top = min(y2, y22)
 
+        
+        if left >= right or bottom >= top:
+            return False
         return True
