@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1406-stone-game-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1872-stone-game-viii) |
@@ -657,4 +658,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
