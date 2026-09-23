@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0516-longest-palindromic-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0940-distinct-subsequences-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0341-flatten-nested-list-iterator) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Queue
 |  |
