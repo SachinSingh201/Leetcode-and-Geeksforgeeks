@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2029-stone-game-ix) |
+| [2965-find-missing-and-repeated-values](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/2965-find-missing-and-repeated-values) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
