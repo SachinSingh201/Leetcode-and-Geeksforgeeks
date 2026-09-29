@@ -1,27 +1,23 @@
 class Solution(object):
     def findMissingAndRepeatedValues(self, grid):
-       
-        n = len(grid) * len(grid) 
-        sn = n*(n+1) //2
-        s2n = n *(n+1) * (2*n+1) //6
-        sgn = 0
-        s2gn = 0
+        """
+        :type grid: List[List[int]]
+        :rtype: List[int]
+        """
+        m = len(grid)
+        n = len(grid)*len(grid)
+        sn = n * (n+1 )//2
+        s2n = n* (n+1)*(2*n +1) // 6
+        xn = 0
+        x2n = 0
+        for i in range(m):
+            for j in range(m):
+                xn += grid[i][j]
+                x2n += grid[i][j]*grid[i][j]
 
-        for row in grid:
-           for val in row:
-               sgn += val
-               s2gn += val*val 
-                
-        a = sn - sgn 
-        b = (s2n - s2gn) // a
-
+        
+        a = sn-xn
+        b = (s2n-x2n) //a 
         missing = (a+b)//2
-        repeating = missing - a
-
-
-        return [repeating , missing]
-
- 
-    
-
-
+        repeated = missing - a 
+        return[repeated,missing]
