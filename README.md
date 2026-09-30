@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0233-number-of-digit-one) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0048-rotate-image) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0198-house-robber) |
