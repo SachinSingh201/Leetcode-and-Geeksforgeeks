@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0169-majority-element) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
