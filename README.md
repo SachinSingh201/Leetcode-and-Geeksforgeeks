@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0039-combination-sum) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0031-next-permutation) |
 | [0148-sort-list](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0148-sort-list) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1386-cinema-seat-allocation](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1386-cinema-seat-allocation) |
