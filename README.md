@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0020-valid-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0208-implement-trie-prefix-tree) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0020-valid-parentheses) |
 | [0341-flatten-nested-list-iterator](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0341-flatten-nested-list-iterator) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
