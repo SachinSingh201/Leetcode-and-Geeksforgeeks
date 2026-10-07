@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0093-restore-ip-addresses) |
 | [0257-binary-tree-paths](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0301-remove-invalid-parentheses) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0516-longest-palindromic-subsequence) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0547-number-of-provinces) |
