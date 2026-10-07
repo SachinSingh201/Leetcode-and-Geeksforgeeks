@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1386-cinema-seat-allocation](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1386-cinema-seat-allocation) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0341-flatten-nested-list-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1096-brace-expansion-ii) |
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
