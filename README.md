@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0416-partition-equal-subset-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0628-maximum-product-of-three-numbers) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0233-number-of-digit-one) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0836-rectangle-overlap) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0169-majority-element) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/SachinSingh201/Leetcode-and-Geeksforgeeks/tree/master/1288-remove-covered-intervals) |
